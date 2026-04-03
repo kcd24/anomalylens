@@ -7,12 +7,7 @@ The system provides real-time anomaly detection, performance comparison across m
 
 ## 🚀 Live Demo
 
-*(Add your deployed link here after deployment)*
-
-Example:
-
-https://anomalylens.streamlit.app
-
+https://anomalylens-5spriwxnfzb35vqdfxtex8.streamlit.app/
 ---
 
 ## 📌 Features
